@@ -12,7 +12,7 @@ ZoomはPC、タブレット、 スマートフォンを使って簡単にビデ�
 
 ### Zoomについての比較的簡単なガイド
 
-- [起業LOGによる簡潔なZoomの使い方](https://kigyolog.com/article.php?id=755)
+- [bussinessinder.jpによる簡潔なZoomの使い方](https://www.businessinsider.jp/post-208979)
 
 - もうちょっと詳しいリ[モートワークラボの解説](https://www.remotework-labo.jp/2018/01/zoom_beginner/)
 
