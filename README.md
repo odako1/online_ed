@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages (a bit of modification)
+## オンライン授業を実施するためのツール
 
-You can use the [editor on GitHub](https://github.com/odako1/online_ed/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+授業は直接対面で行うのがなんといってもベストです。Covid-19の影響で、それが叶わないときに、授業の目的を達成するために使えそうなオンライン授業のツールについて、わかりやすい情報を探して紹介するページです。随時更新します。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ビデオ会議を可能にするもの
+- [**Zoom**](./zoom.html) :  多くの大学や教育機関でCovid-19対策として利用されようとしています。
+- **Google Hanguout Meet**:  labネットのアカウントでgoogleに loginして、Google Suite から利用できます。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/odako1/online_ed/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 教材の配布や課題提出・フィードバックに使うもの
+- [**WebClass**](./webclass.html) :  ２年次以上の学生は使い方をマスターしています。2019年度まで、情報処理センターに個別に利用申請して、システムへの授業の登録が必要でした。2020年度はこれを簡略化できないか検討中です。
+- **Google Classroom** :  labネットのアカウントでgoogleに loginして、Google Suite から利用できます。
