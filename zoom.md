@@ -1,30 +1,29 @@
 # Zoomについて
-Zoomを使う授業についてのブログ
+ZoomはPC、タブレット、 スマートフォンを使って簡単にビデオ会議が実施できるツールです。教室で講師と学生が対面するかわりに、遠隔のビデオ会議形式で講師と学生がコミュニケーションするのを可能にします。
 
-東大の永崎先生のブログがとても資源を集めているし、Zoomの様子も簡単に理解できるので、おすすめです（このブログは上に書いた東大本体のオンライン授業の準備とは全く独立したもの、かもしれません）。
-https://digitalnagasaki.hatenablog.com/entry/2020/03/15/002904 
+###どんな風に授業に使うか？
 
-ビデオ
+- 東大の[永崎先生が作った短い動画](https://www.youtube.com/watch?time_continue=108&v=SBmVtwG_ovQ&feature=emb_logo)が、Zoomを使ったオンライン授業の感じを短くまとめています（[周辺事情をまとめたブログ記事](https://digitalnagasaki.hatenablog.com/entry/2020/03/15/002904 )もあります）。
 
-https://www.youtube.com/watch?time_continue=108&v=SBmVtwG_ovQ&feature=emb_logo
+- 大阪大学の[岩居弘樹先生が包括的にZOOMの使い方](https://zoom.les.cmc.osaka-u.ac.jp)を解説しています。
 
-iwa senさんのZoom授業するには
+- [iwa senさんがZoom授業をした経験](https://www.youtube.com/watch?v=Gus1tlMcE6E&feature=youtu.be)について述べています。
+- [大阪府立大学の先生による「これからZOOMでオンライン授業をしようと思っている教員の方へ」](https://qingyuan.sakura.ne.jp/wp/?p=4121)という参考資料をまとめたブログもあります。
 
-https://www.youtube.com/watch?v=Gus1tlMcE6E&feature=youtu.be
+### Zoomについての比較的簡単なガイド
 
-大阪大学の岩居弘樹先生のページでZOOMの使い方を学ぶ。
-[https://zoom.les.cmc.osaka-u.ac.jp](https://zoom.les.cmc.osaka-u.ac.jp/)
+- [起業LOGによる簡潔なZoomの使い方](https://kigyolog.com/article.php?id=755)
 
-大阪府立大学の先生による「これからZOOMでオンライン授業をしようと思っている教員の方へ」
-https://qingyuan.sakura.ne.jp/wp/?p=4121
+- もうちょっと詳しいリ[モートワークラボの解説](https://www.remotework-labo.jp/2018/01/zoom_beginner/)
 
-起業LOGによる簡潔なZoomの使い方
+### ZoomについてのFAQ
 
-https://kigyolog.com/article.php?id=755
+- [Zoom.us によるFAQ]( https://support.zoom.us/hc/ja/sections/200277708-よくある質問)
+- 参加者をグループに分け、グループ内でやりとりする[「ブレイクアウトルーム」](https://support.zoom.us/hc/ja/articles/206476093-ブレイクアウトルーム入門)が作れます。
+- [Zoom内でアンケート](https://zoomy.info/how_to_use_questionnaire/)が取れます。
 
-オンライン授業における著作権について
+**掲載すべき情報、取り扱うべき疑問など随時募集しています。**
 
-- 参加者をグループにわけてその中でやりとりさせることができる。https://support.zoom.us/hc/ja/articles/206476093-ブレイクアウトルーム入門
-- zoom内でアンケートがとれる　https://zoomy.info/how_to_use_questionnaire/
 
-Zoom FAQ https://support.zoom.us/hc/ja/sections/200277708-よくある質問
+
+
