@@ -3,10 +3,12 @@
 授業は直接対面で行うのがなんといってもベストです。Covid-19の影響で、それが叶わないときに、授業の目的を達成するために使えそうなオンライン授業のツールについて、わかりやすい情報を探して紹介するページです。随時更新します。
 
 ### ビデオ会議を可能にするもの
-- [**Zoom**](/online_ed/zoom.html) :  多くの大学や教育機関でCovid-19対策として利用されようとしています。
-- **Google Hanguout Meet**:  labネットのアカウントでgoogleに loginして、Google Suite から利用できます。
+- [**Zoom**](/online_ed/zoom.html) :  多くの大学や教育機関でCovid-19対策として利用されようとしています。[zoomによるサイト](https://zoom.us)も参照ください。
+- **Google Hanguout Meet**:  labネットのアカウントでgoogleに loginして、Google Suite から利用できます。ただし、学生はcis.twcu.ac.jpにアカウントをもっていて、lab.twcu.ac.jpと所属が異なるためにビデオ会議をするのは困難な可能性が高いです。オンライン授業プロジェクトチームでは、東京女子大学で授業をする講師が誰でもcis.twcu.ac.jpにアカウントを作れる可能性を検討しています。[Googleによるmeetの紹介サイト](https://gsuite.google.co.jp/intl/ja/products/meet/)を参照ください。
 
 ### 教材の配布や課題提出・フィードバックに使うもの
-- [**WebClass**](./webclass.html) :  ２年次以上の学生は使い方をマスターしています。2019年度まで、情報処理センターに個別に利用申請して、システムへの授業の登録が必要でした。2020年度はこれを簡略化できないか検討中です。
-- **Google Classroom** :  labネットのアカウントでgoogleに loginして、Google Suite から利用できます。
+- [**WebClass**](/online_ed/webclass.html) :  ２年次以上の学生は使い方をマスターしています。2019年度まで、情報処理センターに個別に利用申請して、システムへの授業の登録が必要でした。2020年度はこれを簡略化できないか検討中です。
+- **Google Classroom** :  labネットのアカウントでgoogleに loginして、Google Suite から利用できます。ただし、学生はcis.twcu.ac.jpにアカウントをもっていて、lab.twcu.ac.jpと所属が異なるために、講師が作成したクラスに招待が困難な可能性が高いです。オンライン授業プロジェクトチームでは、東京女子大学で授業をする講師が誰でもcis.twcu.ac.jpにアカウントを作れる可能性を検討しています。[googleによるclassroomの紹介サイト](https://edu.google.com/intl/ja/products/classroom/)も参照ください。
+
+**掲載すべき情報、取り扱うべき疑問など、オンライン授業プロジェクトチームは随時募集しています。**
 
