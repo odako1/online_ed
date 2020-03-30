@@ -1,7 +1,7 @@
 # Zoomについて
 ZoomはPC、タブレット、 スマートフォンを使って簡単にビデオ会議が実施できるツールです。教室で講師と学生が対面するかわりに、遠隔のビデオ会議形式で講師と学生がコミュニケーションするのを可能にします。
 
-###どんな風に授業に使うか？
+### どんな風に授業に使うか？
 
 - 東大の[永崎先生が作った短い動画](https://www.youtube.com/watch?time_continue=108&v=SBmVtwG_ovQ&feature=emb_logo)が、Zoomを使ったオンライン授業の感じを短くまとめています（[周辺事情をまとめたブログ記事](https://digitalnagasaki.hatenablog.com/entry/2020/03/15/002904 )もあります）。
 
