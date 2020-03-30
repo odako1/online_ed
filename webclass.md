@@ -10,7 +10,7 @@ WebClassは、クラスに登録された学生に対して、一括で配布し
 
 - [講義資料の作成方法のビデオ(3分半）](https://www.youtube.com/watch?v=KurXAiVZcF0&feature=youtu.be)があります。
 
-- [レポート課題の作成方法のビデオ（4分）](https://www.youtube.com/watch?v=pkyGjcyzggg)があります。
+- [レポート課題の作成方法のビデオ（4分）](https://www.youtube.com/watch?v=8RWi7CH5Ldc)があります。
 
 - [アンケート（コメント）を作成するデビオ(5分）](https://www.youtube.com/watch?v=pkyGjcyzggg)があります。
 
