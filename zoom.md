@@ -26,7 +26,7 @@ ZoomはPC、タブレット、 スマートフォンを使って簡単にビデ�
 
 Covid1-9のために世界中で外出禁止になる中、Zoomは爆発的にユーザを増やし、セキュリティの問題も注目されています。
 
-多くの報道内容は過去の問題を取り上げたもので、よく調べてみると解決済みのものがほとんどです。詳しくは、例えば、[Zoomのすべての問題を解説しているページ（英語）](https://www.tomsguide.com/news/zoom-security-privacy-woes)を参照ください。
+多くの報道内容は過去の問題を取り上げたもので、よく調べてみると解決済みのものがほとんどです。詳しくは、例えば、[Zoomのすべての問題を解説しているページ（4/5, 英語）](https://www.tomsguide.com/news/zoom-security-privacy-woes)を参照ください。
 
 Zoom 自身もそのことについて認識し大規模な対応をしていることを[Zoom のブログページ (4/1, 英語)](https://blog.zoom.us/wordpress/2020/04/01/a-message-to-our-users/)で記載しています。
 
